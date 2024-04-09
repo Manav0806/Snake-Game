@@ -1,5 +1,7 @@
 from turtle import Turtle
 import random
+import pickle
+import tkinter as tk
 
 
 class Food(Turtle):
